@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Vntn10
-- 👀 I’m interested in security
+- 👀 I’m interested in 
+
+
 - 🌱 I’m currently learning.
 - 📫 How to reach me -> only here
-- 😄 Pronouns: yo,ya ye ,you yo yi yam
+- 😄 Pronouns: 
 - ⚡ Fun fact: 
 
 <!---
