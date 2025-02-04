@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vntn10
 - 👀 I’m interested in 
-
-
 - 🌱 I’m currently learning.
 - 📫 How to reach me -> only here
 - 😄 Pronouns: 
