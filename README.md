@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vntn10
-- 👀 I’m interested in cybesecurity
+- 👀 I’m interested in cybesecurity/engineering.
 - 🌱 I’m currently learning.
 - 📫 How to reach me -> only here
   
