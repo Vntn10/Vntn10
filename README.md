@@ -12,7 +12,8 @@ Actuellement, je travaille sur un bot pour Avalam Evolution.
 - 🛠️ **Outils** : Git, Scilab  
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vntn10&show_icons=true&theme=dark)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Vntn10&layout=compact&theme=dark)
+![Graph des contributions](https://github-readme-activity-graph.vercel.app/graph?username=Vntn10&theme=github-dark)
+![Profil Views](https://komarev.com/ghpvc/?username=Vntn10&color=blue)
 
 <!---
 Vntn10/Vntn10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
