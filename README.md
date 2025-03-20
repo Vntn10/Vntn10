@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Vntn10
-- 👀 I’m interested in cybesecurity/engineering.
-- 🌱 I’m currently learning.
-- 📫 How to reach me -> only here
-  
+# Bienvenue sur mon profil ! 👋
+
+Je suis un étudiant en première année à l'IG2I, passionné par l'informatique, la cybersécurité et le développement de jeux. 🚀  
+Actuellement, je travaille sur un bot pour Avalam Evolution.  
+
+## 🔧 Technologies & Compétences  
+
+- 💻 **Langages** : C, Python, JavaScript  
+- 🔒 **Cybersécurité : (En cours d'apprentissage grâce à HACK_THE_BOX)
+- 🎮 **Développement de jeux** : Unity (Flappy Bird)  
+- 🌐 **Web** : HTML, CSS  
+- 🛠️ **Outils** : Git, Scilab  
 
 <!---
 Vntn10/Vntn10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
