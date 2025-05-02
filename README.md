@@ -12,7 +12,6 @@ Actuellement, je travaille sur un bot pour Avalam Evolution.
 - 🛠️ **Outils** : Git, Scilab  
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vntn10&show_icons=true&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=Vntn10&show_icons=true&theme=dark&cache_seconds=1800)
 
 
 <!---
