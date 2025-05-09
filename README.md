@@ -5,10 +5,10 @@ Actuellement, je travaille sur un bot pour Avalam Evolution ainsi que une applic
 
 ## 🔧 Technologies & Compétences  
 
-- 💻 **Langages** : C, Python, JavaScript  
+- 💻 **Langages** : C, Python
 - 🔒 **Cybersécurité : (En cours d'apprentissage grâce à HACK_THE_BOX)
 - 🎮 **Développement de jeux** : Unity (Flappy Bird)  
-- 🌐 **Web** : HTML, CSS  
+- 🌐 **Web** : HTML, CSS, PHP, JavaScript  
 - 🛠️ **Outils** : Git, Scilab  
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vntn10&show_icons=true&theme=dark)
