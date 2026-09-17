@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil ! 👋
 
-Je suis un étudiant en première année à l'IG2I, passionné par l'informatique, la cybersécurité et le développement de jeux. 🚀  
+Je suis un étudiant en deuxieme année à l'IG2I, passionné par l'informatique, la cybersécurité et le développement de jeux. 🚀  
 Actuellement, je travaille sur un bot pour Avalam Evolution ainsi que une application de gestion de parking.
 
 ## 🔧 Technologies & Compétences  
